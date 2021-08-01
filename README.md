@@ -12,19 +12,20 @@ See the validity result at the bottom of the picture.
 
 When it comes to `proof of work`, notice how `difficulty` influences `nonce`. The higher the difficulty is set, the higher the nonce is. For example, with difficulty 2, the nonces, where the data index is ranging from 1 to 3, are approximately one hundred; likewise,  with difficulty 5, the nonces, where the data index is ranging from 4 to 5, are much higher than nonces with difficulty 2.
 
-![ledger_validation.JPG](images/ledger_validation_all.JPG)
+![ledger_validation_all.jpg](images/ledger_validation_all.jpg)
+
 
 
 
 #### 2. The Difficulty setting
 
-![difficulty_5.JPG](images\difficulty_5.JPG)
+![difficulty_5.JPG](images/difficulty_5.JPG)
 
 
 
 #### 3. The block inspector
 
-![Block_Inspector_2.JPG](images\Block_Inspector_2.JPG)
+![Block_Inspector_2.JPG](images/Block_Inspector_2.JPG)
 
 
 
